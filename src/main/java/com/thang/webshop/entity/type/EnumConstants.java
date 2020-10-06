@@ -1,10 +1,6 @@
 package com.thang.webshop.entity.type;
 
-/**
- * 
- * @author thiep.nguyen
- *
- */
+
 public class EnumConstants {
 
 	public enum ProductStatus implements PersistableEnum<Integer> {

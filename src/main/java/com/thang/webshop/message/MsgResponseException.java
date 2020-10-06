@@ -3,9 +3,7 @@ package com.thang.webshop.message;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * @author thiep.nguyen
- */
+
 @Setter
 @Getter
 public class MsgResponseException extends MsgException {

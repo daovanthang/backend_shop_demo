@@ -6,7 +6,7 @@ import javax.persistence.AttributeConverter;
  * Generic class for all enum to database field converter
  * Ref: https://stackoverflow.com/questions/23564506/is-it-possible-to-write-a-generic-enum-converter-for-jpa
  * 
- * @author minhpham
+
  *
  * @param <T>
  * @param <E>

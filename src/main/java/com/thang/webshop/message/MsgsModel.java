@@ -6,9 +6,7 @@ import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-/**
- * @author thiep.nguyen
- */
+
 @Data
 @AllArgsConstructor
 public class MsgsModel {
