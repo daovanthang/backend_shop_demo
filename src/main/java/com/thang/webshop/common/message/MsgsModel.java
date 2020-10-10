@@ -1,4 +1,4 @@
-package com.thang.webshop.message;
+package com.thang.webshop.common.message;
 
 import java.util.ArrayList;
 import java.util.List;

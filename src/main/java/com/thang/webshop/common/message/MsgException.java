@@ -1,4 +1,4 @@
-package com.thang.webshop.message;
+package com.thang.webshop.common.message;
 
 
 public abstract class MsgException extends RuntimeException {

@@ -7,12 +7,12 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.thang.webshop.common.message.MsgResponseException;
+import com.thang.webshop.common.message.MsgsModel;
 import com.thang.webshop.dto.ProductDTO;
 import com.thang.webshop.entity.Category;
 import com.thang.webshop.entity.Product;
 import com.thang.webshop.entity.type.EnumConstants.ProductStatus;
-import com.thang.webshop.message.MsgResponseException;
-import com.thang.webshop.message.MsgsModel;
 import com.thang.webshop.repository.CategoryRepository;
 import com.thang.webshop.repository.ProductRepository;
 
